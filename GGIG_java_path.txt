@@ -1,1 +1,1 @@
-C:\Progra~1\AdoptOpenJDK\jdk-8.0.212.03-hotspot\bin\java
+C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\bin\java
